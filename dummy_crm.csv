@@ -1,0 +1,101 @@
+customer_id,name,company,industry,role,needs,engagement,contact_email,phone
+C001,Jane Doe,Acme Corp,Cloud,CTO,Cloud migration,High,jane.doe@acme.com,1234567890
+C002,John Smith,Beta Inc,Security,CISO,Security solutions,Medium,john.smith@beta.com,1234567891
+C003,Alice Lee,Gamma LLC,Healthcare,VP,Healthcare analytics,Low,alice.lee@gamma.com,1234567892
+C004,Bob Brown,Delta Ltd,Finance,Director,Financial automation,High,bob.brown@delta.com,1234567893
+C005,Eva Green,Epsilon AG,Manufacturing,Manager,Supply chain optimization,Medium,eva.green@epsilon.com,1234567894
+C006,Frank White,Zeta Co,Education,Principal,Edtech integration,Low,frank.white@zeta.com,1234567895
+C007,Gina Black,Theta Group,Logistics,COO,Fleet management,High,gina.black@theta.com,1234567896
+C008,Henry Blue,Iota Inc,Energy,Engineer,Energy efficiency,Medium,henry.blue@iota.com,1234567897
+C009,Ivy Red,Kappa LLC,Retail,Head,Omnichannel retail,Low,ivy.red@kappa.com,1234567898
+C010,Jack Silver,Lambda Corp,Telecom,Product Lead,5G rollout,High,jack.silver@lambda.com,1234567899
+C011,Kate Gold,Mu Ltd,Cloud,VP,Cloud security,Medium,kate.gold@mu.com,1234567800
+C012,Liam Gray,Nu AG,Security,Manager,Incident response,Low,liam.gray@nu.com,1234567801
+C013,Mia Pink,Xi Co,Healthcare,Director,Patient engagement,High,mia.pink@xi.com,1234567802
+C014,Noah Cyan,Omicron Group,Finance,Analyst,Regulatory compliance,Medium,noah.cyan@omicron.com,1234567803
+C015,Olivia Lime,Pi Inc,Manufacturing,COO,Process automation,Low,olivia.lime@pi.com,1234567804
+C016,Paul Mint,Rho LLC,Education,Dean,Digital curriculum,High,paul.mint@rho.com,1234567805
+C017,Quinn Aqua,Sigma Corp,Logistics,VP,Warehouse robotics,Medium,quinn.aqua@sigma.com,1234567806
+C018,Ruby Plum,Tau Ltd,Energy,CTO,Smart grid,Low,ruby.plum@tau.com,1234567807
+C019,Sam Rose,Upsilon AG,Retail,Manager,Customer loyalty,High,sam.rose@upsilon.com,1234567808
+C020,Tina Jade,Phi Co,Telecom,Director,Network optimization,Medium,tina.jade@phi.com,1234567809
+C021,Uma Pearl,Chi Group,Cloud,Engineer,Multi-cloud strategy,Low,uma.pearl@chi.com,1234567810
+C022,Vic Moss,Psi Inc,Security,Head,Threat intelligence,High,vic.moss@psi.com,1234567811
+C023,Wes Snow,Omega LLC,Healthcare,COO,Telemedicine,Medium,wes.snow@omega.com,1234567812
+C024,Xena Sky,Alpha Corp,Finance,VP,Blockchain adoption,Low,xena.sky@alpha.com,1234567813
+C025,Yan Fox,Beta AG,Manufacturing,Director,Factory IoT,High,yan.fox@beta.com,1234567814
+C026,Zoe Wolf,Gamma Co,Education,Principal,Student analytics,Medium,zoe.wolf@gamma.com,1234567815
+C027,Adam Tiger,Delta Group,Logistics,Manager,Route optimization,Low,adam.tiger@delta.com,1234567816
+C028,Bella Lion,Epsilon Inc,Energy,Engineer,Renewable integration,High,bella.lion@epsilon.com,1234567817
+C029,Carl Bear,Zeta LLC,Retail,VP,Personalization,Medium,carl.bear@zeta.com,1234567818
+C030,Dina Hawk,Theta AG,Telecom,Director,Customer churn,Low,dina.hawk@theta.com,1234567819
+C031,Elon Kite,Iota Co,Cloud,CTO,Hybrid cloud,High,elon.kite@iota.com,1234567820
+C032,Fay Swan,Kappa Ltd,Security,Manager,Zero trust,Medium,fay.swan@kappa.com,1234567821
+C033,Gary Finch,Lambda AG,Healthcare,Head,AI diagnostics,Low,gary.finch@lambda.com,1234567822
+C034,Holly Dove,Mu Co,Finance,Director,Expense management,High,holly.dove@mu.com,1234567823
+C035,Ian Crow,Nu Group,Manufacturing,VP,Lean manufacturing,Medium,ian.crow@nu.com,1234567824
+C036,Joy Lark,Xi Inc,Education,Dean,Online learning,Low,joy.lark@xi.com,1234567825
+C037,Kurt Jay,Omicron LLC,Logistics,COO,Last mile delivery,High,kurt.jay@omicron.com,1234567826
+C038,Liz May,Pi Corp,Energy,Engineer,Grid modernization,Medium,liz.may@pi.com,1234567827
+C039,Max Ray,Rho Ltd,Retail,Manager,POS upgrades,Low,max.ray@rho.com,1234567828
+C040,Nina Jay,Sigma AG,Telecom,VP,Edge computing,High,nina.jay@sigma.com,1234567829
+C041,Oscar Kay,Tau Co,Cloud,Product Lead,Serverless adoption,Medium,oscar.kay@tau.com,1234567830
+C042,Paula Bay,Upsilon LLC,Security,Director,Access management,Low,paula.bay@upsilon.com,1234567831
+C043,Quincy Fay,Phi Group,Healthcare,Manager,Remote monitoring,High,quincy.fay@phi.com,1234567832
+C044,Rita Guy,Chi Inc,Finance,Head,Investment analytics,Medium,rita.guy@chi.com,1234567833
+C045,Steve Joy,Psi Ltd,Manufacturing,COO,Robotic process,Low,steve.joy@psi.com,1234567834
+C046,Tara Zen,Omega AG,Education,Principal,Campus security,High,tara.zen@omega.com,1234567835
+C047,Uma Rex,Alpha Co,Logistics,Director,Cold chain,Medium,uma.rex@alpha.com,1234567836
+C048,Vera Lux,Beta LLC,Energy,Engineer,Carbon capture,Low,vera.lux@beta.com,1234567837
+C049,Walt Neo,Gamma AG,Retail,VP,Inventory analytics,High,walt.neo@gamma.com,1234567838
+C050,Xeno Poe,Delta Inc,Telecom,Manager,Self-service portals,Medium,xeno.poe@delta.com,1234567839
+C051,Yuri Moe,Epsilon LLC,Cloud,CTO,Containerization,Low,yuri.moe@epsilon.com,1234567840
+C052,Zane Sue,Zeta AG,Security,Head,Penetration testing,High,zane.sue@zeta.com,1234567841
+C053,Abby Lee,Theta Co,Healthcare,Director,Clinical trials,Medium,abby.lee@theta.com,1234567842
+C054,Brent Kim,Iota Ltd,Finance,VP,Tax optimization,Low,brent.kim@iota.com,1234567843
+C055,Clara Sun,Kappa AG,Manufacturing,Manager,Workforce planning,High,clara.sun@kappa.com,1234567844
+C056,Dan Fox,Lambda Co,Education,Dean,Hybrid classrooms,Medium,dan.fox@lambda.com,1234567845
+C057,Ella Jay,Mu Group,Logistics,COO,Reverse logistics,Low,ella.jay@mu.com,1234567846
+C058,Fred Kay,Nu Inc,Energy,Engineer,Grid reliability,High,fred.kay@nu.com,1234567847
+C059,Gail May,Xi Ltd,Retail,Head,Customer insights,Medium,gail.may@xi.com,1234567848
+C060,Hank Ray,Omicron AG,Telecom,Director,AI call routing,Low,hank.ray@omicron.com,1234567849
+C061,Ivy Lux,Pi LLC,Cloud,VP,Cloud cost,High,ivy.lux@pi.com,1234567850
+C062,Jack Moe,Rho AG,Security,Manager,SIEM,Medium,jack.moe@rho.com,1234567851
+C063,Kate Poe,Sigma Co,Healthcare,Product Lead,Genomics,Low,kate.poe@sigma.com,1234567852
+C064,Luke Sun,Tau LLC,Finance,Director,Digital banking,High,luke.sun@tau.com,1234567853
+C065,Mona Zen,Upsilon AG,Manufacturing,COO,Smart sensors,Medium,mona.zen@upsilon.com,1234567854
+C066,Ned Joy,Phi Inc,Education,Principal,STEM curriculum,Low,ned.joy@phi.com,1234567855
+C067,Opal Bay,Chi Ltd,Logistics,Head,Freight analytics,High,opal.bay@chi.com,1234567856
+C068,Paul Ray,Psi AG,Energy,Engineer,Microgrid,Medium,paul.ray@psi.com,1234567857
+C069,Quinn May,Omega Co,Retail,Manager,Store automation,Low,quinn.may@omega.com,1234567858
+C070,Rita Poe,Alpha AG,Telecom,VP,Unified comms,High,rita.poe@alpha.com,1234567859
+C071,Stan Lux,Beta Co,Cloud,CTO,Cloud migration,Medium,stan.lux@beta.com,1234567860
+C072,Tina Sun,Gamma Ltd,Security,Director,Endpoint security,Low,tina.sun@gamma.com,1234567861
+C073,Uma Zen,Delta AG,Healthcare,Head,Medical imaging,High,uma.zen@delta.com,1234567862
+C074,Vic Poe,Epsilon Co,Finance,VP,Wealth management,Medium,vic.poe@epsilon.com,1234567863
+C075,Wes Ray,Zeta Ltd,Manufacturing,Manager,Maintenance,Low,wes.ray@zeta.com,1234567864
+C076,Xena Joy,Theta Group,Education,Dean,Edtech adoption,High,xena.joy@theta.com,1234567865
+C077,Yan May,Iota AG,Logistics,COO,Supply chain,Medium,yan.may@iota.com,1234567866
+C078,Zoe Poe,Kappa Co,Energy,Engineer,EV charging,Low,zoe.poe@kappa.com,1234567867
+C079,Adam Sun,Lambda LLC,Retail,Head,Personalization,High,adam.sun@lambda.com,1234567868
+C080,Bella Lux,Mu Ltd,Telecom,Director,OSS/BSS,Medium,bella.lux@mu.com,1234567869
+C081,Carl Zen,Nu AG,Cloud,Product Lead,DevOps,Low,carl.zen@nu.com,1234567870
+C082,Dina Poe,Xi Group,Security,Manager,Security awareness,High,dina.poe@xi.com,1234567871
+C083,Elon Joy,Omicron Inc,Healthcare,Director,Population health,Medium,elon.joy@omicron.com,1234567872
+C084,Fay Poe,Pi AG,Finance,VP,Payments,Low,fay.poe@pi.com,1234567873
+C085,Gary Sun,Rho Co,Manufacturing,COO,Digital twins,High,gary.sun@rho.com,1234567874
+C086,Holly Lux,Sigma LLC,Education,Principal,Student retention,Medium,holly.lux@sigma.com,1234567875
+C087,Ian Poe,Tau AG,Logistics,Manager,Transport safety,Low,ian.poe@tau.com,1234567876
+C088,Joy Zen,Upsilon Co,Energy,Engineer,Hydrogen,High,joy.zen@upsilon.com,1234567877
+C089,Kurt Sun,Chi LLC,Retail,VP,POS analytics,Medium,kurt.sun@chi.com,1234567878
+C090,Liz Poe,Psi Ltd,Telecom,Director,Network slicing,Low,liz.poe@psi.com,1234567879
+C091,Max Zen,Omega AG,Cloud,CTO,Cloud modernization,High,max.zen@omega.com,1234567880
+C092,Nina Poe,Alpha Inc,Security,Manager,Data loss prevention,Medium,nina.poe@alpha.com,1234567881
+C093,Oscar Sun,Beta Ltd,Healthcare,Head,Remote diagnostics,Low,oscar.sun@beta.com,1234567882
+C094,Paula Lux,Gamma AG,Finance,VP,AI trading,High,paula.lux@gamma.com,1234567883
+C095,Quincy Zen,Delta Co,Manufacturing,Director,Additive manufacturing,Medium,quincy.zen@delta.com,1234567884
+C096,Rita Sun,Epsilon Ltd,Education,Dean,STEAM labs,Low,rita.sun@epsilon.com,1234567885
+C097,Steve Poe,Zeta Group,Logistics,COO,Digital freight,High,steve.poe@zeta.com,1234567886
+C098,Tara Sun,Theta Inc,Energy,Engineer,Smart meters,Medium,tara.sun@theta.com,1234567887
+C099,Uma Lux,Iota LLC,Retail,Manager,Omnichannel,Low,uma.lux@iota.com,1234567888
+C100,Vic Zen,Kappa AG,Telecom,Product Lead,5G monetization,High,vic.zen@kappa.com,1234567889

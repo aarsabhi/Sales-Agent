@@ -1,0 +1,108 @@
+customer_id,interaction_id,date,summary,interaction_type,status
+C001,INT001,2025-04-20,Discussed cloud migration roadmap,Call,Follow-up required
+C001,INT002,2025-04-25,Sent proposal for migration,Email,Awaiting response
+C002,INT003,2025-04-18,Security audit findings shared,Call,Demo scheduled
+C002,INT004,2025-04-21,Demo completed,Meeting,Follow-up required
+C003,INT005,2025-04-22,Shared healthcare analytics case study,Email,Awaiting response
+C004,INT006,2025-04-19,Discussed financial automation,Call,Closed won
+C005,INT007,2025-04-23,Sent supply chain optimization whitepaper,Email,Awaiting response
+C006,INT008,2025-04-20,Intro call for edtech integration,Call,Follow-up required
+C007,INT009,2025-04-21,Demo of fleet management solution,Demo,Awaiting response
+C008,INT010,2025-04-24,Discussed energy efficiency project,Call,Follow-up required
+C009,INT011,2025-04-26,Shared omnichannel retail strategy,Email,Awaiting response
+C010,INT012,2025-04-25,5G rollout planning call,Call,Follow-up required
+C011,INT013,2025-04-22,Cloud security concerns discussed,Call,Awaiting response
+C012,INT014,2025-04-23,Incident response proposal sent,Email,Demo scheduled
+C013,INT015,2025-04-21,Patient engagement platform demo,Demo,Awaiting response
+C014,INT016,2025-04-24,Regulatory compliance call,Call,Follow-up required
+C015,INT017,2025-04-23,Process automation pitch,Email,Awaiting response
+C016,INT018,2025-04-22,Digital curriculum discussion,Call,Follow-up required
+C017,INT019,2025-04-20,Warehouse robotics demo,Demo,Awaiting response
+C018,INT020,2025-04-25,Smart grid proposal sent,Email,Awaiting response
+C019,INT021,2025-04-22,Customer loyalty program call,Call,Follow-up required
+C020,INT022,2025-04-21,Network optimization call,Call,Awaiting response
+C021,INT023,2025-04-24,Multi-cloud strategy discussion,Call,Follow-up required
+C022,INT024,2025-04-25,Threat intelligence report shared,Email,Awaiting response
+C023,INT025,2025-04-23,Telemedicine platform demo,Demo,Follow-up required
+C024,INT026,2025-04-24,Blockchain adoption call,Call,Awaiting response
+C025,INT027,2025-04-25,Factory IoT solution proposal,Email,Follow-up required
+C026,INT028,2025-04-22,Student analytics call,Call,Awaiting response
+C027,INT029,2025-04-21,Route optimization demo,Demo,Follow-up required
+C028,INT030,2025-04-23,Renewable integration discussion,Call,Awaiting response
+C029,INT031,2025-04-24,Personalization strategy call,Call,Follow-up required
+C030,INT032,2025-04-25,Customer churn analysis,Email,Awaiting response
+C031,INT033,2025-04-22,Hybrid cloud pitch,Call,Follow-up required
+C032,INT034,2025-04-24,Zero trust security call,Call,Awaiting response
+C033,INT035,2025-04-25,AI diagnostics demo,Demo,Follow-up required
+C034,INT036,2025-04-23,Expense management proposal,Email,Awaiting response
+C035,INT037,2025-04-22,Lean manufacturing discussion,Call,Follow-up required
+C036,INT038,2025-04-21,Online learning platform demo,Demo,Awaiting response
+C037,INT039,2025-04-23,Last mile delivery call,Call,Follow-up required
+C038,INT040,2025-04-24,Grid modernization proposal,Email,Awaiting response
+C039,INT041,2025-04-25,POS upgrades call,Call,Follow-up required
+C040,INT042,2025-04-22,Edge computing discussion,Call,Awaiting response
+C041,INT043,2025-04-23,Serverless adoption demo,Demo,Follow-up required
+C042,INT044,2025-04-24,Access management proposal,Email,Awaiting response
+C043,INT045,2025-04-25,Remote monitoring platform call,Call,Follow-up required
+C044,INT046,2025-04-22,Investment analytics discussion,Call,Awaiting response
+C045,INT047,2025-04-23,Robotic process automation demo,Demo,Follow-up required
+C046,INT048,2025-04-24,Campus security proposal,Email,Awaiting response
+C047,INT049,2025-04-25,Cold chain logistics call,Call,Follow-up required
+C048,INT050,2025-04-22,Carbon capture project discussion,Call,Awaiting response
+C049,INT051,2025-04-23,Inventory analytics demo,Demo,Follow-up required
+C050,INT052,2025-04-24,Self-service portals proposal,Email,Awaiting response
+C006,INT053,2025-04-28,Send follow-up email after last interaction: Intro call for edtech integration,Email,Awaiting response
+C006,INT054,2025-04-28,Send follow-up email after last interaction: Send follow-up email after last interaction: Intro call for edtech integration,Email,Awaiting response
+C006,INT055,2025-04-28,Send follow-up email after last interaction: Send follow-up email after last interaction: Intro call for edtech integration,Email,Awaiting response
+C006,INT056,2025-04-28,Send follow-up email after last interaction: Send follow-up email after last interaction: Intro call for edtech integration,Email,Awaiting response
+C001,INT057,2025-04-28,Schedule a call: [Error generating smart message: name 'az_key' is not defined],Call,Follow-up required
+C004,INT058,2025-04-28,"Send congratulations email: Subject: Congratulations on Your Successful Deal!
+
+Dear Mr. Brown,
+
+I hope this email finds you well.
+
+I am writing to extend my warmest congratulations on behalf of [Your Company] for securing the deal for financial automation at Delta Ltd. It has been an absolute pleasure to engage with you and your team throughout this process.
+
+Your vision and leadership in driving financial automation within Delta Ltd are truly commendable. We are thrilled to have had the opportunity to support your goals and contribute to the efficiency and growth of your organization.
+
+As you embark on this exciting new journey, please know that our team is here to ensure a seamless implementation and to provide any support you may need. We are committed to helping Delta Ltd achieve unparalleled success through our state-of-the-art financial automation solutions.
+
+Once again, congratulations on this significant achievement. We look forward to continuing our partnership and witnessing the remarkable transformations that will unfold at Delta Ltd.
+
+Please do not hesitate to reach out if you have any questions or require assistance.
+
+Warm regards,
+
+[Your Name]  
+[Your Position]  
+[Your Company]  
+Email: [Your Email]  
+Phone: [Your Phone]
+
+---
+I have tailored this email to emphasize your business relationship and the achievement of the deal, ensuring it resonates with Bob Brown's professional status and engagement level. Let me know if there are any specific details you'd like to add or adjust!",Email,Closed won
+C007,INT059,2025-04-28,"Send follow-up email: Subject: Following Up on Fleet Management Solution Demo
+
+Dear Ms. Black,
+
+I hope this message finds you well.
+
+I am writing to follow up on our recent discussion regarding our fleet management solution. It was a pleasure to demonstrate the capabilities of our system to you and the Theta Group team. We truly appreciate the opportunity to address your logistics needs and explore how our solution can enhance your fleet management operations.
+
+Given your pivotal role as COO, we understand the importance of having reliable and efficient tools to streamline fleet management. Our solution is designed to offer comprehensive visibility, optimize routes, reduce operational costs, and ensure the highest levels of compliance and safety.
+
+We are keen to hear your feedback and discuss any questions or concerns you might have following the demo. Your insights are invaluable to us, and we are eager to collaborate with Theta Group to tailor our solution to meet your specific requirements.
+
+If you need any further information or would like to schedule another meeting, please do not hesitate to reach out. You can contact me directly via email or phone at your convenience.
+
+Thank you once again for considering our fleet management solution. We look forward to your response and the possibility of working together.
+
+Best regards,
+
+[Your Full Name]  
+[Your Position]  
+[Contact Information]  
+[Company Name]
+
+Personal note: XYZ",Email,Awaiting response

@@ -1,0 +1,6 @@
+streamlit
+openai
+azure-identity
+pandas
+requests
+python-dotenv
